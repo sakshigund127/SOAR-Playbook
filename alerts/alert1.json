@@ -1,0 +1,7 @@
+{
+  "alert_id": "A001",
+  "source_ip": "185.220.101.1",
+  "alert_type": "Brute Force Attempt",
+  "severity": "high",
+  "timestamp": "2026-07-04T10:00:00"
+}
