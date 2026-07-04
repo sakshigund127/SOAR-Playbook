@@ -1,0 +1,7 @@
+{
+  "alert_id": "A002",
+  "source_ip": "8.8.8.8",
+  "alert_type": "Failed Login",
+  "severity": "low",
+  "timestamp": "2026-07-04T11:00:00"
+}

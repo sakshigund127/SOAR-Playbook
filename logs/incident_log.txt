@@ -1,2 +1,9 @@
 2026-07-04 10:57:35.497894 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
 2026-07-04 11:02:06.497871 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
+2026-07-04 11:16:17.820314 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
+2026-07-04 11:20:38.933460 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
+2026-07-04 11:21:51.518884 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
+2026-07-04 11:27:05.967962 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP
+2026-07-04 11:35:07.918545 | AlertID: A002 | IP: 8.8.8.8 | Decision: IGNORED - Low severity
+2026-07-04 11:37:02.200412 | AlertID: A002 | IP: 8.8.8.8 | Decision: IGNORED - Low severity
+2026-07-04 11:37:12.849556 | AlertID: A001 | IP: 185.220.101.1 | Decision: BLOCKED - High severity + confirmed malicious IP

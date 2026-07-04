@@ -46,6 +46,10 @@ def triage(alert):
     log_incident(alert, decision)
     print(f"[RESULT] {decision}")
 
+import sys
+
 if __name__ == "__main__":
-    alert = load_alert("alerts/alert1.json")
+    alert_file = sys.argv[1] if len(sys.argv) > 1 else "alerts/alert1.json"
+    alert = load_alert(alert_file)
     triage(alert)
+
